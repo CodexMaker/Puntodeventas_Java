@@ -1,0 +1,5 @@
+crar una nueva bd (backup)
+exportar archivo como sql y solo!!! crear las tablas
+cargar en la consulta de la nueva base de datos! 
+run y listo !
+SVR
